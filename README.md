@@ -8,7 +8,6 @@ I work part-time at OpenAI, leading an expansion of their student Lab Ambassador
 * **[Personify](https://personifychat.netlify.app/)** – Easy-to-use interface for personalizing ChatGPT interactions.
 * **[Poly Prompt Website](https://polyprompt.netlify.app/)** – Informational site for Cal Poly’s first OpenAI-sponsored hackathon.
 * **[ChatStudentTuning](https://studentchat.netlify.app/onboarding)** – Quick-start tool to help students tailor ChatGPT instructions.
-* **The Collective** – Platform to research and showcase how students meaningfully use AI.
 
 Beyond these, I actively collaborate often via Github on various team projects and hackathons, many of which aren't hosted directly on my profile.
 
