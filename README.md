@@ -1,7 +1,7 @@
-# Hi, I'm Parker.
+# Hi, I’m Parker.
 
-I work across product, technology, and community. At OpenAI, I’m part of the student community team, building systems that support the OpenAI Student Collective and helping students learn what’s possible with AI.
+I work on the student community team at OpenAI, where I build tools and systems and train students on ChatGPT and Codex.
 
-My background is in software engineering at Cal Poly, but my interests extend into psychology, design, and storytelling—how people think, what they care about, and how an idea becomes something useful.
+I studied software engineering at Cal Poly and am interested in psychology, design, and storytelling. I like thinking about how people use technology and building things that are useful to them.
 
-GitHub shows one side of that work. Most of the projects here are personal experiments or things I built at hackathons. I’m more active on [LinkedIn](https://www.linkedin.com/in/parker-jones-ai/), where I share more of what I’m working on and thinking about.
+Most of the projects here are personal experiments or things I’ve built at hackathons. I share more of what I’m working on over on [LinkedIn](https://linkedin.com/in/parker-jones-ai).
